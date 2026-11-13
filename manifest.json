@@ -1,0 +1,9 @@
+{
+  "name": "Pavúčik Miško",
+  "short_name": "Pavúčik Miško",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#dceeff",
+  "theme_color": "#dceeff"
+}
